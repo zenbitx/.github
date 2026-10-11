@@ -1,6 +1,6 @@
 # Zenbitx
 
-![Zenbitx LLC — Building Scalable Tech-Driven Business Systems.](../zenbitx-social-preview.png)
+![Zenbitx LLC — Building Scalable Tech-Driven Business Systems.](https://raw.githubusercontent.com/zenbitx/.github/main/zenbitx-social-preview.png)
 
 **Zenbitx** is an AI-first technology company building intelligent automation, creative productivity platforms, and secure digital infrastructure for modern businesses.
 

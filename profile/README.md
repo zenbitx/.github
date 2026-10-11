@@ -1,5 +1,7 @@
 # Zenbitx
 
+![Zenbitx LLC — Building Scalable Tech-Driven Business Systems.](../zenbitx-social-preview.png)
+
 **Zenbitx** is an AI-first technology company building intelligent automation, creative productivity platforms, and secure digital infrastructure for modern businesses.
 
 Founded in 2012, Zenbitx delivers enterprise-grade digital solutions across software development, web engineering, scalable systems, and AI-powered products.
@@ -16,7 +18,7 @@ Founded in 2012, Zenbitx delivers enterprise-grade digital solutions across soft
 ## Our Product Ecosystem
 
 ### Pixizen
-AI-powered creative productivity and advertisement content platform for entrepreneurs, brands, and agencies.
+AI-powered creative productivity and advertising content platform for entrepreneurs, brands, and agencies.
 
 ### Zenbify
 A Shopify-like SaaS and e-commerce platform designed for scalable online business operations.
